@@ -2,6 +2,7 @@
 #### This project was done as a Artificial Intelligence Intern at CodeClause
 #### Used the dataset at [Link](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv) 
 #### Kaggle Notebook Link: [Link](https://www.kaggle.com/code/wahmugdha/spam-detection)
+(This notebook was made in Kaggle)
 #### Models used for data training
 
 - Multinomial Naive Bayes
